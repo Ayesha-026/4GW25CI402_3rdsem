@@ -1,2 +1,2 @@
 # 4GW25CI402_3rdsem
-all projects and programs of 3rd sem
+All Projects and Programs of 3rd Sem
